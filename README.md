@@ -1,4 +1,4 @@
-# Kanban Board: a Project Management Tool built with Spring Boot 2.0, ReactJS and Redux
+# Kanban Tool
 
 Full Stack Project: Spring Boot 2.0, ReactJS, Redux and Bootstrap 4+
 
@@ -17,8 +17,3 @@ Full Stack Project: Spring Boot 2.0, ReactJS, Redux and Bootstrap 4+
 * Deploy application to Heroku
 
 
-#### Here is the link of the application on Heroku:
-
-```
-Link to Heroku
-```
