@@ -14,6 +14,4 @@ Full Stack Project: Spring Boot 2.0, ReactJS, Redux and Bootstrap 4+
 
 * Application security using JWT tokens
 
-* Deploy application to Heroku
-
 
